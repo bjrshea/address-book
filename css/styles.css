@@ -1,0 +1,14 @@
+#bio {
+  display: none;
+}
+
+#bio p {
+  font-size: 1em;
+  line-height: 1.05em;
+}
+
+.card {
+  text-align: center;
+  height: 200px;
+  margin: 30px;
+}
